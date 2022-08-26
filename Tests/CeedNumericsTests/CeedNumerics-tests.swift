@@ -26,7 +26,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import XCTest
 import Foundation
-@testable import Numerics
+@testable import CeedNumerics
 
 let _tol: Double = 0.00001
 

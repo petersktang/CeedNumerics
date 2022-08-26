@@ -25,7 +25,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
 import Foundation
-import Numerics_C
+import CeedNumerics_C
 
 // TODO list for NDimensionalArray:
 // - unify steps / strides concepts into strides + canonical steps / define compact form (H*W,W,1)
